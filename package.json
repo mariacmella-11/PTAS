@@ -1,0 +1,24 @@
+{
+  "name": "ptas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariacmella-11/PTAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mariacmella-11/PTAS/issues"
+  },
+  "homepage": "https://github.com/mariacmella-11/PTAS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
